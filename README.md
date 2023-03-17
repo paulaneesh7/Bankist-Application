@@ -13,7 +13,7 @@ This is a Banking application project (Bankist). HTML, CSS and JavaScript has be
 
 ## Demo
 
-https://bankist.netlify.app/
+https://bankistappv2.netlify.app/
 
 
 ## Running Tests
